@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">project_1</string>
+    <string name="head">中山大学学生信息系统</string>
+    <string name="image">sysu</string>
+    <string name="number">学号：</string>
+    <string name="hint_1"> 请输入你的学号</string>
+    <string name="edit_num"> 学号编辑框</string>
+    <string name="password"> 密码：</string>
+    <string name="edit_password">密码编辑框</string>
+    <string name="hint_2">请输入你的密码</string>
+    <string name="学生">学生</string>
+    <string name="教职工">教职工</string>
+    <string name="登录">登录</string>
+    <string name="注册">注册</string>
+</resources>
